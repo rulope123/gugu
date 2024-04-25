@@ -1,0 +1,35 @@
+.contenedor{
+    margin: 0 auto;
+    width: 100vw;
+    height: 100vh;
+    margin-top: 50px;
+}
+
+.texto{
+    width: 25%;
+    text-align: start;
+}
+
+.img{
+    width: 60%;  
+    display: block;
+}
+
+img{
+    float: right;
+}
+
+.gugu-fleets{
+    color:rgb(17, 67, 88);
+    font-size: 1.2em;
+}
+
+.naranja{
+    color: rgb(255, 132, 7);
+}
+
+h1{
+    color:rgb(17, 67, 88);    
+    text-align: center;
+    margin-bottom: 50px;     
+}
